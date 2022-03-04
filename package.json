@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.2.4"
+    "mongoose": "^6.2.4",
+    "require": "^0.4.4",
+    "stack": "^0.1.0"
   }
 }
