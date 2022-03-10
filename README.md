@@ -25,8 +25,9 @@ There are thought API routes to get all thoughts, get a single thought, create a
 The demo video shows the API routes being tested using Insomnia.
 
 The video can be found at:
+
 https://github.com/texrob20/social-network-backend/blob/main/demo/social-network-demo.webm
 
 or
 
-https://watch.screencastify.com/v/
+https://drive.google.com/file/d/1EHWzNljZjJu-fPLDdypWJFzAFZ2VCNrq/view
