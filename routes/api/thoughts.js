@@ -23,7 +23,8 @@ router
 
 router
   .route('/:id/reactions')
-  .post (addReaction)
-  .delete(removeReaction);  
+  .post (addReaction);
+
+router.route('/:id/reactions/:reactionId').delete(removeReaction);  
 
 module.exports = router;
